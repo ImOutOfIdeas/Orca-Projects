@@ -1,4 +1,4 @@
-const IP_ADDR = '128.146.165.227';
+const IP_ADDR = 'YOUR IP';
 const UDP_PORT = 49161;
 
 const dgram = require('dgram');
